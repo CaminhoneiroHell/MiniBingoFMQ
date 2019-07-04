@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniBingoFMQ", "MiniBingoFMQ\MiniBingoFMQ.vcxproj", "{52255996-4107-4737-8505-557E4BBB3981}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MBingo_Server", "MBingo_Server\MBingo_Server.vcxproj", "{8029E143-6AE7-4FE0-99C8-972EEE265366}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{52255996-4107-4737-8505-557E4BBB3981}.Release|x64.Build.0 = Release|x64
 		{52255996-4107-4737-8505-557E4BBB3981}.Release|x86.ActiveCfg = Release|Win32
 		{52255996-4107-4737-8505-557E4BBB3981}.Release|x86.Build.0 = Release|Win32
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Debug|x64.ActiveCfg = Debug|x64
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Debug|x64.Build.0 = Debug|x64
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Debug|x86.ActiveCfg = Debug|Win32
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Debug|x86.Build.0 = Debug|Win32
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Release|x64.ActiveCfg = Release|x64
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Release|x64.Build.0 = Release|x64
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Release|x86.ActiveCfg = Release|Win32
+		{8029E143-6AE7-4FE0-99C8-972EEE265366}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
